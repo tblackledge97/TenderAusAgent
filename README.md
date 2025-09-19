@@ -1,6 +1,8 @@
 # TenderAusAgent
 Beginnings of an agent to pull data from the AusTenders API and filter it for opportunities that suit Unleash.
 
+(This can be expanded to VendorPanel, but VendorPanel API requires authenticaiton).
+
 # main.py
 Primary entry point for procurement data. Define the search criteria and make the API request. 
 Displays the data in a readable format:
