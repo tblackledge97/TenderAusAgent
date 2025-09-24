@@ -4,20 +4,239 @@
         "description": "The Department of Finance requires the supply of desktop computers and laptops.",
         "agency": "Department of Finance",
         "category": "Computers and Technology",
-        "close_date_time": "26-Sep-2025 2:00 pm"
+        "close_date_time": "26-Sep-2025 2:00 pm",
+        "is_relevant": true
     },
     {
         "title": "Catering Services",
         "description": "Request for a supplier to provide catering services for an upcoming conference.",
         "agency": "Department of Health",
         "category": "Catering and Hospitality",
-        "close_date_time": "30-Sep-2025 5:00 pm"
+        "close_date_time": "30-Sep-2025 5:00 pm",
+        "is_relevant": false
     },
     {
         "title": "Software Development Project",
         "description": "Seeking a vendor to develop a new web-based application to manage payroll for a government agency.",
         "agency": "Department of Education",
         "category": "Software Development",
-        "close_date_time": "05-Oct-2025 11:00 am"
+        "close_date_time": "05-Oct-2025 11:00 am",
+        "is_relevant": true
+    },
+    {
+        "title": "IT Systems Upgrade",
+        "description": "The Department of Human Services requires a vendor to upgrade their legacy IT infrastructure to a modern cloud-based system.",
+        "agency": "Department of Human Services",
+        "category": "Cloud Services",
+        "close_date_time": "15-Oct-2025 3:00 pm",
+        "is_relevant": true
+    },
+    {
+        "title": "Supply of Office Supplies",
+        "description": "Tender for the procurement of office stationery, paper, and other general supplies for all government departments.",
+        "agency": "Department of Finance",
+        "category": "Office Supplies",
+        "close_date_time": "20-Oct-2025 10:00 am",
+        "is_relevant": false
+    },
+    {
+        "title": "Security Consulting and Risk Assessment",
+        "description": "Seeking a security firm to conduct a comprehensive cyber security risk assessment and provide consulting services.",
+        "agency": "Department of Defence",
+        "category": "Cyber Security",
+        "close_date_time": "01-Nov-2025 4:00 pm",
+        "is_relevant": true
+    },
+    {
+        "title": "Renovation of Parliament House Building",
+        "description": "Tender for construction and renovation services for a historical government building.",
+        "agency": "Department of Parliamentary Services",
+        "category": "Construction and Renovation",
+        "close_date_time": "25-Oct-2025 11:30 am",
+        "is_relevant": false
+    },
+    {
+        "title": "Web Hosting and Maintenance Services",
+        "description": "Call for tenders for ongoing web hosting, maintenance, and technical support for a series of government websites.",
+        "agency": "Department of the Treasury",
+        "category": "IT Services",
+        "close_date_time": "18-Nov-2025 9:00 am",
+        "is_relevant": true
+    },
+    {
+        "title": "Supply and Installation of Solar Panels",
+        "description": "Tender for a supplier to install solar panels on various government buildings.",
+        "agency": "Department of the Environment",
+        "category": "Renewable Energy",
+        "close_date_time": "18-Oct-2025 12:00 pm",
+        "is_relevant": false
+    },
+    {
+        "title": "Development of a new mobile application for public services.",
+        "description": "Seeking a vendor to design and build a new mobile application for citizen engagement.",
+        "agency": "Department of Social Services",
+        "category": "Mobile Application Development",
+        "close_date_time": "02-Nov-2025 3:00 pm",
+        "is_relevant": true
+    },
+    {
+        "title": "Provision of medical and surgical supplies for a public hospital.",
+        "description": "Tender for a supplier of medical and surgical equipment to a government-operated hospital network.",
+        "agency": "Department of Health",
+        "category": "Medical Equipment",
+        "close_date_time": "28-Oct-2025 2:00 pm",
+        "is_relevant": false
+    },
+    {
+        "title": "Data migration services from legacy system to cloud platform.",
+        "description": "Tender for a specialized firm to provide data migration services from an old database system to a new cloud platform.",
+        "agency": "Department of Home Affairs",
+        "category": "Data Migration",
+        "close_date_time": "10-Nov-2025 1:00 pm",
+        "is_relevant": true
+    },
+    {
+        "title": "Call for tenders for new office furniture and fixtures.",
+        "description": "Seeking proposals for the provision of office chairs, desks, and filing cabinets.",
+        "agency": "Department of Finance",
+        "category": "Office Furniture",
+        "close_date_time": "05-Nov-2025 10:00 am",
+        "is_relevant": false
+    },
+    {
+        "title": "IT infrastructure audit and vulnerability assessment.",
+        "description": "Tender for an independent firm to conduct a full audit of our IT infrastructure for security vulnerabilities.",
+        "agency": "Department of Foreign Affairs and Trade",
+        "category": "IT Security Audit",
+        "close_date_time": "15-Nov-2025 4:00 pm",
+        "is_relevant": true
+    },
+    {
+        "title": "Supply of Office Desks and Chairs",
+        "description": "Tender for a supplier to provide new office furniture for a government office refit.",
+        "agency": "Department of Finance",
+        "category": "Office Furniture",
+        "close_date_time": "15-Dec-2025 10:00 am",
+        "is_relevant": false
+    },
+    {
+        "title": "Enterprise Resource Planning (ERP) System Implementation",
+        "description": "Seeking a vendor to implement and customize a new ERP system to manage all business processes.",
+        "agency": "Department of the Treasury",
+        "category": "Enterprise Software",
+        "close_date_time": "20-Dec-2025 4:00 pm",
+        "is_relevant": true
+    },
+    {
+        "title": "Building Security and Access Control System",
+        "description": "Tender for a supplier to install and maintain a new security system, including CCTV and access control.",
+        "agency": "Department of Home Affairs",
+        "category": "Security Systems",
+        "close_date_time": "05-Jan-2026 11:00 am",
+        "is_relevant": false
+    },
+    {
+        "title": "Cloud Computing Infrastructure and Managed Services",
+        "description": "Seeking a provider for managed cloud services, including hosting, storage, and platform support.",
+        "agency": "Department of Defence",
+        "category": "Cloud Computing",
+        "close_date_time": "10-Jan-2026 2:30 pm",
+        "is_relevant": true
+    },
+    {
+        "title": "Provision of Catering and Hospitality Services",
+        "description": "Tender for a caterer to provide daily food and beverage services at a government building.",
+        "agency": "Department of Social Services",
+        "category": "Catering and Hospitality",
+        "close_date_time": "20-Jan-2026 9:00 am",
+        "is_relevant": false
+    },
+    {
+        "title": "Application Modernization and Re-platforming",
+        "description": "Seeking a vendor to modernize a legacy application, migrating it to a modern, scalable platform.",
+        "agency": "Department of Human Services",
+        "category": "Application Development",
+        "close_date_time": "25-Jan-2026 5:00 pm",
+        "is_relevant": true
+    },
+    {
+        "title": "Road Maintenance and Repair",
+        "description": "Tender for routine maintenance and repair services on public roads and infrastructure.",
+        "agency": "Department of Infrastructure",
+        "category": "Road Construction",
+        "close_date_time": "01-Feb-2026 3:00 pm",
+        "is_relevant": false
+    },
+    {
+        "title": "Cybersecurity Penetration Testing and Audit",
+        "description": "Seeking an expert firm to perform penetration testing and a full security audit of our network infrastructure.",
+        "agency": "Department of Foreign Affairs and Trade",
+        "category": "Cybersecurity",
+        "close_date_time": "05-Feb-2026 11:00 am",
+        "is_relevant": true
+    },
+    {
+        "title": "Pest Control Services for Government Buildings",
+        "description": "Tender for pest management and control services for a variety of government facilities.",
+        "agency": "Department of Health",
+        "category": "Facility Maintenance",
+        "close_date_time": "15-Feb-2026 12:00 pm",
+        "is_relevant": false
+    },
+    {
+        "title": "IT Systems Integration Project",
+        "description": "Seeking a vendor to integrate multiple disparate IT systems into a single, cohesive platform.",
+        "agency": "Department of Education",
+        "category": "Systems Integration",
+        "close_date_time": "20-Feb-2026 4:00 pm",
+        "is_relevant": true
+    },
+    {
+        "title": "Supply of Personal Protective Equipment (PPE)",
+        "description": "Tender for a supplier of safety equipment, including gloves, masks, and protective clothing.",
+        "agency": "Department of Social Services",
+        "category": "Medical Supplies",
+        "close_date_time": "28-Feb-2026 2:00 pm",
+        "is_relevant": false
+    },
+    {
+        "title": "Development of a new data analytics platform for market research.",
+        "description": "Seeking a provider for a new web-based platform to analyze market data and generate reports.",
+        "agency": "Department of the Treasury",
+        "category": "Data Analytics",
+        "close_date_time": "05-Mar-2026 10:00 am",
+        "is_relevant": true
+    },
+    {
+        "title": "Recruitment and Staffing Services",
+        "description": "Tender for a staffing agency to provide temporary and permanent recruitment services.",
+        "agency": "Department of Human Services",
+        "category": "Human Resources",
+        "close_date_time": "10-Mar-2026 3:00 pm",
+        "is_relevant": false
+    },
+    {
+        "title": "Maintenance and Support of Legacy IT System",
+        "description": "Seeking a vendor to provide ongoing maintenance and support for an outdated IT system until a replacement can be found.",
+        "agency": "Department of Finance",
+        "category": "IT Support",
+        "close_date_time": "15-Mar-2026 11:00 am",
+        "is_relevant": true
+    },
+    {
+        "title": "Vehicle Fleet Management Services",
+        "description": "Tender for a third-party to manage and maintain a fleet of government vehicles.",
+        "agency": "Department of Infrastructure",
+        "category": "Fleet Management",
+        "close_date_time": "20-Mar-2026 1:00 pm",
+        "is_relevant": false
+    },
+    {
+        "title": "Supply of network routers and switches.",
+        "description": "Tender for a supplier to provide networking hardware and equipment for a data center upgrade.",
+        "agency": "Department of Defence",
+        "category": "Networking Hardware",
+        "close_date_time": "25-Mar-2026 4:00 pm",
+        "is_relevant": true
     }
 ]
