@@ -11,7 +11,7 @@ def main():
     # Define the API endpoint URL for a specific date range.
     # The 'releases' endpoint is generally better for a broader search.
     # Or, to be precise, 'tenderLastModified' might be a better endpoint.
-    base_url = "https://api.tenders.gov.au/ocds/findByDates/contractLastModified"
+    #base_url = "https://api.tenders.gov.au/ocds/findByDates/contractLastModified"
     start_date = "2024-02-08T00:00:00Z"
     end_date = "2025-09-14T23:59:59Z"
     url = f"{base_url}/{start_date}/{end_date}"

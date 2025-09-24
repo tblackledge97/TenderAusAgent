@@ -90,14 +90,10 @@ keywords = {
 }
 
 # The RSS feed URL
-rss_urls = ["https://www.tenders.gov.au/public_data/rss/rss.xml",
-            "https://www.vendorpanel.com.au/PublicTendersRssV2.aspx?mode=all"]
+#rss_urls = ["https://www.tenders.gov.au/public_data/rss/rss.xml",
+#            "https://www.vendorpanel.com.au/PublicTendersRssV2.aspx?mode=all"]
 
-# A dictionary to hold the request headers
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/'
-    '537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
-}
+# input
 
 found_matches = {}
 # load the memory file

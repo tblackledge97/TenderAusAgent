@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Supply of Computer Equipment",
+        "description": "The Department of Finance requires the supply of desktop computers and laptops.",
+        "agency": "Department of Finance",
+        "category": "Computers and Technology",
+        "close_date_time": "26-Sep-2025 2:00 pm"
+    },
+    {
+        "title": "Catering Services",
+        "description": "Request for a supplier to provide catering services for an upcoming conference.",
+        "agency": "Department of Health",
+        "category": "Catering and Hospitality",
+        "close_date_time": "30-Sep-2025 5:00 pm"
+    },
+    {
+        "title": "Software Development Project",
+        "description": "Seeking a vendor to develop a new web-based application to manage payroll for a government agency.",
+        "agency": "Department of Education",
+        "category": "Software Development",
+        "close_date_time": "05-Oct-2025 11:00 am"
+    }
+]
